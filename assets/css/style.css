@@ -1,0 +1,1565 @@
+.hospital-management-content .container-fluid{background: #364150}
+.hmgt_ajax-ani {
+  background-color: #ffffff;
+  display: none;
+  height: 100%;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+.hmgt_ajax-img {
+  display: none;
+  left: 40%;
+  position: absolute;
+  top: 20%;
+  z-index: 999;
+}
+.hmgt_ajax-img > img {
+  margin-top: 220px;
+}
+.panel .dashicons {
+  line-height: 25px;
+}
+.toplevel_page_hmgt_hospital:hover .wp-menu-image.dashicons-before img {
+  display: none;
+}
+.toplevel_page_hmgt_hospital:hover .wp-menu-image.dashicons-before {
+  min-width: 23px !important;
+}
+#wpbody-content .updated.below-h2 {
+  margin-top: 20px;
+}
+.media-modal a:hover {text-decoration: none;}
+.wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_hmgt_hospital  {
+    background: url("../images/hospital-3.png") no-repeat scroll 8px 9px #0073AA !important;
+}
+ .wp-has-submenu.wp-has-current-submenu.wp-menu-open.menu-top.toplevel_page_hmgt_hospital  img {
+    display: none;
+}
+.info-box-title {
+  text-transform: capitalize;
+}
+
+.container-fluid.mainpage {
+  padding: 0;
+}
+.img-circle.head_logo {
+  margin-right: 5px;
+}
+.nav-tab-active, .nav-tab-active:hover,a.nav-tab:hover,a.nav-tab:focus {
+  background: none repeat scroll 0 0 #fff;
+  border-bottom: 0px;
+  color: #000;
+  text-decoration: none;
+}
+.wp-admin select 
+{
+    height: 34px;
+}
+
+updated.below-h2{text-transform: capitalize;}
+/* OLD CSS  */
+.student_name,.result_total,.result_point {
+  text-align: center; 
+}
+.student_name {
+ font-size: 20px;
+}
+.panel-body button {
+  margin-right: 12px;
+  margin-bottom: 10px!important;
+}
+.school_name {
+  background: none repeat scroll 0 0 #34425A;
+  color: #C6C9CD;
+  padding: 5px;
+}
+.hospital_left {
+  background: none repeat scroll 0 0 #364150;
+  min-height: 700px;
+}
+.right_side {
+  margin-top: 10px;
+}
+.nopadding {  
+  
+   padding-left:0 !important;
+   padding-right:0 !important;
+}
+.hospital_left .nav .title{color:#fff;}
+.hospital_left ul a:hover,.hospital_left ul li.active > a,.hospital_left  li > a:focus {background: #2C3542 !important;}
+.hospital_left ul a, {border-top: 1px solid #3d4957;
+    color: #b4bcc8;}
+   
+.form-control.file,.form-control.fronted_file  
+{
+ border: 1px solid #dce1e4;
+}   
+.navbar a {
+  color: #5f5f5f !important;
+}
+.dropdown-menu li a {
+  padding: 7px 10px;
+  color: #5f5f5f !important;
+  font-size: 13px;
+}
+.navbar .nav li > a:hover,.navbar .nav li > a:focus {
+  background-color: inherit;
+}
+.navbar ul li ul a:hover{background-color: #F3F3F3; } 
+.navbar  a:hover{
+  text-decoration: none;
+}
+
+.account .personal-info {
+    margin-top: 15px;
+}
+.dashboard-stat {
+  height: 100px;
+  padding: 10px 5px;
+}
+.dashboard .block-orange {
+  background: #F59575;
+}
+.dashboard .icon {
+  float: left;
+  font-size: 54px;
+  margin-right: 1%;
+  width: 45%;
+}
+.dashboard .number {
+  font-size: 30px;
+}
+.dashboard .left_block {
+  float: left;
+  width: 75%;
+}
+.form-horizontal h5 {
+    color: red;
+}
+.blue.btn {
+    background-color: #3598dc;
+    color: #ffffff;
+	border-radius:0px;
+}
+.checkbox_field  {
+    width: 10px !important;
+}
+.attendence_list th, .attendence_list td{
+	padding:10px !important;
+}
+.select_Staus {
+   
+    padding: 25px 0;
+}
+.toshow { 
+    display:none; 
+    position: absolute; 
+    background: #f00; 
+    width: 200px; 
+	
+}
+button:hover div.toshow { 
+    display:block; 
+}
+.right_part {
+    float: right;
+    margin-top: 65px;
+    width: 30%;
+}
+.calender_part{
+    width: 70%;
+}
+.seperate_part {
+    margin: 5px;
+  
+}
+.right_side {
+    margin-top: 0;
+	padding:20px;
+}
+.right_side.account {
+  padding: 0;
+}
+.profile-cover{
+    background: url("../images/school_life.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+}
+.file_upload{
+border:none;
+}
+.table-responsive th {
+  text-transform: capitalize;
+  height: 1px;
+  font: normal;
+}
+.require-field{
+color:red;
+}
+.info-box .info-box-stats {
+  margin-top: 0px !important;
+}
+.info-box .info-box-icon i {
+    float: right;
+    font-size: 70px !important;
+}
+.button-possition  input ,button{
+    margin-top: 22px;
+}
+.panel-body h2 {
+    margin-bottom: 28px !important;
+    margin-top: 20px !important;
+	font-weight: 400 !important;
+}
+#add-another_item{margin-left: 17%;}
+#revove_item{margin-left: 1%;}
+.marginbottom{ 
+	float: left;
+    margin-bottom: 10px;
+    width: 100%;}
+.print-button {padding-top:10px;
+margin-bottom: 10px;
+}
+table.dataTable thead th, table.dataTable thead td{padding:10px 10px;}
+/**  Fronted CSS*/
+/**   Menu icone***/
+
+.icone {
+  float: left;
+  height: 20px !important;
+  margin-right: 5px;
+  overflow: hidden;
+  width: 25px !important;
+  text-align: center;
+}
+.hospital-management-content .container-fluid.mainpage {
+ position:absolute;
+  width: 100%;
+    z-index: 5;
+}
+.info-box .panel-body img{
+ 
+transition: all 0.3s ease 0s;
+}
+ .page-inner .col-lg-2 a .info-box:hover .panel-body img
+{
+  transform: scale(1.2);
+}  
+img.dashboard_background {
+  width: 100%;
+}
+.info-box .info-box-stats {
+  position: absolute;
+  left: 8%;
+  top: 15%;
+  z-index:2;
+}
+.info-box .panel-body {
+  padding: 0 !important;
+}
+.info-box .patient .info-box-stats p {
+  color: #22baa0;
+  font-size: 34px; 
+}
+.info-box .patient .info-box-stats span.info-box-title {
+  color: #22baa0; 
+}
+.info-box .doctor .info-box-stats p {
+  color: #12AFCB;
+  font-size: 34px; 
+}
+.info-box .doctor .info-box-stats span.info-box-title {
+  color: #12AFCB; 
+}
+.info-box .nurse .info-box-stats p {
+  color: #6A5FAC;
+  font-size: 34px; 
+}
+.info-box .nurse .info-box-stats span.info-box-title {
+  color: #6A5FAC; 
+}
+.info-box .accountant .info-box-stats p {
+  color: #F25656;
+  font-size: 34px; 
+}
+.info-box .accountant .info-box-stats span.info-box-title {
+  color: #F25656; 
+}
+.info-box .receptionist .info-box-stats p {
+  color: #4E5E6A;
+  font-size: 34px; 
+}
+.info-box .receptionist .info-box-stats span.info-box-title {
+  color: #4E5E6A; 
+}
+.info-box .pharmacist .info-box-stats p {
+  color: #3B5998;
+  font-size: 34px; 
+}
+.info-box .pharmacist .info-box-stats span.info-box-title {
+  color: #3B5998; 
+}
+.info-box .laboratorist .info-box-stats p {
+  color: #380000;
+  font-size: 34px; 
+}
+.info-box .laboratorist .info-box-stats span.info-box-title {
+  color: #380000; 
+}
+
+.info-box .invoice .info-box-stats p {
+  color: #660033;
+  font-size: 34px; 
+}
+.info-box .invoice .info-box-stats span.info-box-title {
+  color: #660033;
+}
+.info-box .medicine .info-box-stats p {
+  color: #CC0066;
+  font-size: 34px; 
+}
+
+.info-box .medicine .info-box-stats span.info-box-title {
+  color: #CC0066;
+}
+
+.info-box .operation_report .info-box-stats p {
+  color: #330033;
+  font-size: 34px; 
+}
+
+.info-box .operation_report .info-box-stats span.info-box-title {
+  color: #330033;
+}
+
+.info-box .birthreport .info-box-stats p {
+  color: #666633;
+  font-size: 34px; 
+}
+
+.info-box .birthreport .info-box-stats span.info-box-title {
+  color: #666633;
+}
+
+.info-box .deathreport .info-box-stats p {
+  color: #CC9900;
+  font-size: 34px; 
+}
+
+.info-box .deathreport .info-box-stats span.info-box-title {
+  color: #CC9900;
+}
+.info-box .setting .info-box-stats p {
+  color: #999933;
+  font-size: 34px; 
+}
+
+.info-box .setting .info-box-stats span.info-box-title {
+  color: #999933;
+}
+.info-box .treatment .info-box-stats p {
+  color: #003333;
+  font-size: 34px; 
+}
+
+.info-box .treatment .info-box-stats span.info-box-title {
+  color: #003333;
+}
+.info-box .prescription .info-box-stats p {
+  color: #0099FF;
+  font-size: 34px; 
+}
+
+.info-box .prescription .info-box-stats span.info-box-title {
+  color: #0099FF;
+}
+.info-box .assignbed .info-box-stats p {
+  color: #996600;
+  font-size: 34px; 
+}
+
+.info-box .assignbed .info-box-stats span.info-box-title {
+  color: #996600;
+}
+.info-box .diagnosis .info-box-stats p {
+  color: #330033;
+  font-size: 34px; 
+}
+
+.info-box .diagnosis .info-box-stats span.info-box-title {
+  color: #330033;
+}
+.info-box .bloodbank .info-box-stats p {
+  color: #990000;
+  font-size: 34px; 
+}
+.info-box .bloodbank .info-box-stats span.info-box-title {
+  color: #990000;
+}
+.info-box .appointment .info-box-stats p {
+  color: #FF9966;
+  font-size: 34px; 
+}
+.info-box .appointment .info-box-stats span.info-box-title {
+  color: #FF9966;
+}
+.info-box .eventnotice .info-box-stats p {
+  color: #009933;
+  font-size: 34px; 
+}
+.info-box .eventnotice .info-box-stats span.info-box-title {
+  color: #009933;
+}
+.info-box .message .info-box-stats p {
+  color: #0066FF;
+  font-size: 34px; 
+}
+.info-box .message .info-box-stats span.info-box-title {
+  color: #0066FF;
+}
+.info-box .operation-list   .info-box-stats span.info-box-title {
+  color: #003333;
+}
+.info-box .operation-list .info-box-stats p {
+  color: #003333;
+  font-size: 34px; 
+}
+.nav-tab,.nav-tabs a {
+    background: none repeat scroll 0 0 #f1f4f9;
+}
+.nav-tab.nav-tab-active {
+    background: none repeat scroll 0 0 #fff;
+}
+.mainpage .navbar-right {
+ 
+  margin-right: 0px;
+}
+.mainpage .navbar-right .dropdown{float:right;}
+table.fontend-border td,
+table.fontend-border th{
+	padding:0px !important;
+}
+ul.panel_tabs li{padding-left:10px;}
+ul.panel_tabs a {
+  padding: 5px;
+}
+ul.panel_tabs a:focus,ul.panel_tabs a:hover {
+  background: #fff !important;
+}
+ul.panel_tabs a {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+/*********** Hospital CSS ********************/
+.table-responsive {
+  padding-top : 10px;
+}
+table a.btn {
+  margin-bottom: 5px;
+}
+blockquote.diagnosis-report {
+    font-size: 12.5px;
+}
+.calendar-event > p {
+    float: left;
+    width: 100%;
+}
+.profile_data hr {
+    margin-bottom: 0;
+}
+.panel-body.prescription_popprint_content {
+  margin: 25px auto;
+  width: 82%;
+}
+.overlay-content .prescription_pop_content
+{
+  height: 500px;
+  overflow: auto;
+}
+.hmsg_message_none {
+    display: none;
+}
+.hmsg_message_block {
+    display: block;
+}
+.audit_button {
+  float: right;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.aduit_log_file {
+  float: left;
+  height: 700px;
+  overflow: scroll;
+  width: 100%;
+}
+#access_right_form .menu-label {
+  font-weight: bold;
+  line-height: 36px;
+}
+#access_right_form .row {
+  border-bottom: 1px solid hsl(0, 0%, 87%);
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.row_bottom {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+/*-------wordpress 4.4 compitable----------------*/
+.nav-side-menu .toggle-btn, .nav-side-menu .brand {
+  display: none;
+}
+.left_section2{float:left;}
+.nav-tab {
+  position: relative;
+  top: 1px;
+}
+h1.nav-tab-wrapper, h2.nav-tab-wrapper, h3.nav-tab-wrapper {
+  border-bottom: 1px solid hsl(0, 0%, 80%);
+  padding-bottom: 0;
+  padding-left: 10px;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+.col-md-1.update_dp {
+  margin: 10px 0 0 60px;
+}
+.profile_picture {
+  float: left;
+  height: auto;
+  width: 100%;
+}
+.message-options.pull-right.reply-message-btn {
+  margin-top: 35px;
+}
+/*-----botstrap datepicker css in model--------------*/
+.dropdown-menu.datepicker {
+	    z-index: 9999;
+		margin-top: -20px;
+}
+.hospital-management-content .dropdown-menu.datepicker {
+	    z-index: 9999;
+		margin-top: 0px !important;
+}
+/* --- invoice transaction css */
+#th_width
+{
+	min-width: 120px;
+}
+#th_width_amount
+{
+	min-width: 160px;
+}
+#th_delete
+{
+	min-width: 50px;
+}
+/* --- invoice transaction css */
+#patient_transaction tbody
+{
+	float:left;
+	max-height:234px;
+	overflow-y:scroll;
+}
+.patient_transaction_div
+{
+	width: 100%;
+    overflow-x: auto;
+}
+/* --- Appointment module css */
+.span_appointment
+{
+	border: 1px solid #000;
+	padding: 0;
+}
+.span_appointment_value
+{
+	padding: 5px;
+	border-bottom: 1px solid #000;
+	text-align: center;
+	background: #f2f2f2;
+}
+.span_appointment_selected
+{
+	text-align: center;
+	padding: 0;
+}
+.span_appointment_selectedvalue
+{
+	float: left;
+	width: 100%;
+	padding: 0px;
+}
+/*appointment Modules css */
+.appointment_padding_border
+{
+	padding:15px;
+	border-top: 1px solid #ddd;
+}
+.removeselect>.time
+{
+	margin: 0px 0 0!important;
+	height: 21px!important;
+	width:21px!important;
+}
+.time:checked:before
+{
+    margin: 6px!important;
+}	
+.align_time
+{
+	vertical-align: middle!important;
+}
+#chktime
+{
+    margin: 5px 0 0!important;
+}
+/*upload_document_text_align */
+.upload_document_text_align
+{
+    text-align: center!important;
+}
+@page    {
+  size: auto;  
+  margin: 0;  
+ }
+ /*---------------- NEW CSS (2020-04-06) ---------------*/
+ .min_height_1631
+ {
+	min-height:1631px !important;
+ }
+ .height_width_50
+ {
+	width: 50px;
+	height:50px;
+ }
+ .green
+ {
+	color:#4CAF50;
+ }
+ .blue
+ {
+	color:#008CBA;
+ }
+ .appoint_1
+ {
+	border: 1px solid #000;
+	padding: 0 !important;
+ }
+ .appoint_2
+ {
+	padding: 5px;
+	border-bottom: 1px solid #000;
+	text-align: center;
+	background: #f2f2f2;
+ }
+ .appoint_3
+ {
+	text-align: center;
+	padding: 0 !important;
+ }
+ .appoint_4
+ {
+	float: left;
+	width: 100%;
+	padding: 0px;
+ }
+ .add_bed_1
+ {
+	float:left;
+	padding-top: 8px;
+	font-size: 13px;
+ }
+ .bed_location
+ {
+	padding:10px; 
+	float:left; 
+	width:100%;
+ }
+ .overflow_scroll
+ {
+	overflow:scroll;
+ }
+ .zindex_100000
+ {
+	z-index:100000 !important;
+ }
+ .bed_transfer_from
+ {
+	float:left; 
+	width:100%; 
+	padding:8px; 
+	margin-bottom:10px; 
+	font-size:18px; 
+	font-weight:bold;
+ }
+ .flot_width_100
+ {
+	float:left; 
+	width:100%;
+ }
+ .tooltip_1
+ {
+	background:#feb811;
+	width:230px;
+	color:white;
+	padding:5px;
+	position:absolute;
+	z-index:10001;
+	margin:0;
+ }
+ .dashboad_1
+ {
+	border-top: 5px solid #22baa0;
+ }
+ .min_height_1088{
+	min-height:1088px !important;
+ }
+ .margin_bottom_15
+ {
+	margin-bottom: 15px !important;
+ }
+ .width_160
+ {
+	width: 160px;
+	background-position: 85px;
+ }
+ .width_305
+ {
+	width: 305px;
+ }
+ .text_align_center
+ {
+	text-align: center;
+ }
+ .pos_top
+ {
+	position: relative; 
+	top: 1px;
+ }
+ .mar_right_0
+ {
+	margin-right: 0px;
+ }
+ .min_height_100
+ {
+	min-height: 100px;
+ }
+ .min_height_100_m_t_5
+ {
+	min-height: 100px;
+	margin-top:5px;
+ }
+ .width_100
+ {
+	width:100%;
+ }
+ .font_20
+ {
+	font-size: 20px;
+ }
+ .min_height_400
+ {
+	min-height: 400px;
+ } 
+ .min_height_280
+ {
+	min-height: 280px;
+ }
+ .background_0
+ {
+	background: rgba(0,0,0,0);
+ }
+ .min_height_400
+ {
+	min-height: 400px;
+ } 
+ .min_height_200
+ {
+	min-height: 200px;
+ } 
+ .opration_1
+ {
+	padding:10px; 
+	float:left;
+	width:100%;
+ }
+ .padding_0
+ {
+	padding:0px;
+ }
+ .padding_right_0
+ {
+	padding-right: 0px;
+ }
+ .width_100_height_500
+ {
+	width: 100%; 
+	height: 500px;
+ }
+ .display_none
+ {
+	display:none;
+ }
+ .dashboard_appointment
+ {
+	background:#feb811;
+	width:230px;
+	color:white;
+	padding:5px;
+	position:absolute;
+	z-index:10001;
+	margin:0;
+ }
+ .border_solid
+ {
+	border-top: 5px solid #22baa0;
+ }
+ .min_height_1050
+ {
+	min-height:1050px;
+ }
+ .float_r_mar_r_10
+ {
+	float:right;
+	margin-right:10px;
+ }
+ .width_160_pos
+ {
+	width: 160px;
+	background-position: 85px;
+ }
+ .login_fail
+ {
+	background-color: #FFEBE8;
+	border:1px solid #C00;
+	padding:5px;
+ }
+ .padding_top_0
+ {
+	padding-top: 0px;
+ }
+ .width_125
+ {
+	width: 125px;
+ }
+ .padding_top_bottom_10
+ {
+	padding-top:10px;
+	padding-bottom:10px;
+ }
+ .bed_location_1
+ {
+	padding:10px; 
+	float:left;
+	width:100%;
+ }
+ .border_1
+ {
+	border: 1px solid;
+ }
+ .font_12
+ {
+	font-size: 12px;
+ }
+ .font_18
+ {
+	font-size: 18px;
+ }
+ .font_14
+ {
+	font-size: 14px;
+ }
+ .padding_right_5_left_0
+ {
+	padding-right:5px;
+	padding-left:0px;
+ }
+ .padding_right_0_left_0
+ {
+	padding-right:0px;
+	padding-left:0px;
+ }
+ .padding_right_5_left_5
+ {
+	padding-right:5px;
+	padding-left:5px;
+ }
+ .padding_left_20
+ {
+	padding-left:20px;
+ }
+ .margin_left_50
+ {
+	margin-left:50%;
+ }
+ .margin_left_55
+ {
+	margin-left:55px;
+ }
+ .padding_right_6
+ {
+	padding-right:6px;
+ }
+ .padding_bottom_20
+ {
+	padding-bottom: 20px;
+ }
+ .padding_top_15
+ {
+	 padding-top:15px;
+ }
+  .padding_top_38
+ {
+	 padding-top:38px;
+ }
+ .margin_bottom_0
+ {
+	margin-bottom:0px;
+ }
+ .color1
+ {
+	color:#e21313fc;
+ }
+ .height_0
+ {
+	height: 0px;
+ }
+ .appoint_5
+ {
+	border: 1px solid #000;
+	padding: 0;
+ }
+ .max_width_100
+ {
+	max-width:100% !important;
+ }
+.width_140
+ {
+	width:140px !important;
+ }
+.overflow_scroll
+{
+	overflow:scroll !important;
+}
+input[type=radio]:checked::before {
+	margin: 3px !important;
+}
+.appointment_padding_border input[type=radio]:checked::before {
+	margin: 4px !important;
+	width: 11px !important;
+    height: 11px !important;
+}
+.padding_10
+{
+	padding:10px !important;
+}
+.multiselect-container {
+    overflow: auto !important;
+    height: 140px;
+}
+.margin_left_15
+{
+	margin-left:15px;
+}
+.fc-day-grid-event {
+    margin: 1px 0px 0 !important;
+    padding: 0 1px;
+}
+.word_break{
+	 word-break: break-all;
+}
+#message-replay .message-content
+{
+	    min-height: 110px;
+}
+/*-------------- Windows Safari CSS --------------*/
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+    /* Safari only override */
+    ::i-block-chrome, .page-inner {
+		min-width:100% !important;
+    }
+	::i-block-chrome, .page-inner a {
+		text-decoration: none !important;
+    }
+	::i-block-chrome, .form-wrap p, p.description, p.help, span.description {
+		font-size: 13px;
+		font-style: normal !important;
+	}
+	::i-block-chrome, .padding_top_20_saf
+	{
+		padding-top: 20px;
+	}
+	::i-block-chrome, select
+	{
+		line-height: 2.428571 !important;
+	}
+	
+}
+.entry_lable1{
+margin-top:35px;
+margin-left: 15px;
+}
+#paitient_print .table>tbody>tr>td{
+vertical-align: middle;
+}
+
+.title_viewprint {
+    margin-top: -310px;
+}
+.width_401{
+padding-left: 40px;
+}
+.width_601{
+padding-left: 40px;
+
+}
+.width_501{
+margin-top: 35px;
+
+}
+.mt_4{
+    margin-top: 70px;
+}
+.aa{
+margin-top: 30px;
+margin-left:0px!important;
+}
+@media print
+{	
+.title_viewprint {
+    margin-top: -180px;
+}
+
+}
+
+.title_discharge{
+	text-align:center;
+	font-weight: bolder;
+	}
+.title_hr{
+border-top: 1px solid black;
+}	
+.discharge_title{
+	margin-top:25px;
+	}
+.discharge_data_view{
+height:600px;
+
+	}	
+	
+table#membesrship_list11 {
+    margin-top: 20px;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	padding: 10px;
+}
+.discharge_plan {
+    margin-top: 25px;
+}
+.discharge_Appointments{
+ margin-top: 25px;
+}
+.DIAGNOSIS_discharge{
+ margin-top: 25px;
+}
+.VISIT_ENCOUNTER{
+ margin-top: 25px;
+}
+.ENCOUNTER_dis{
+	padding-left:50px!important;
+	}
+.user_dis{
+padding-left:50px!important;
+}
+.doctor_dis{
+padding-left:50px!important;
+}
+#paitient_print1 .table>tbody>tr>td{
+padding:10px;
+}		
+@media print{	
+table#membesrship_list11 {
+    margin-top: 20px;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	padding: 10px;
+}
+.discharge_plan {
+    margin-top: 25px;
+}
+.discharge_Appointments{
+ margin-top: 25px;
+}
+.DIAGNOSIS_discharge{
+ margin-top: 25px;
+}
+.VISIT_ENCOUNTER{
+ margin-top: 25px;
+}
+.ENCOUNTER_dis{
+	padding-left:50px!important;
+	}
+.user_dis{
+padding-left:50px!important;
+}
+.doctor_dis{
+padding-left:50px!important;
+}
+#paitient_print1 .table>tbody>tr>td{
+padding:10px;
+}	
+}
+/* update by maulik */
+.padding_11
+{
+	padding:9px!important;
+}
+.wp-core-ui select
+{
+	max-width: 100%;
+	line-height: 20px!important;
+	
+}
+.entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide)
+{
+	    width: calc(75% - -4rem)!important;
+}
+.padding_0
+{
+	 padding: 0px!important;
+}
+input.form-control.charg_checkbox
+{
+	height:13px;
+}
+.flot_width_100
+{
+	float:left;
+	width:100%;
+}
+.fc-view.fc-agendaWeek-view.fc-agenda-view
+{
+	overflow:auto;
+}
+.fc-view.fc-agendaDay-view.fc-agenda-view
+{
+	overflow:auto;
+}
+.buttons-colvis
+{
+	background: seagreen !important;
+    color: white !important;
+}
+.report_second_tab
+{
+	position: relative;
+    display: block !important;
+    padding: 5px 10px !important;
+}
+.margin_right_5px
+{
+	margin-right: 5px;
+}
+.buttons-print,.buttons-pdf
+{
+	background-color: #00a65a !important;
+    color: #fff !important;
+    font-size: 13px !important;
+    border: 1px solid transparent !important;
+}
+#transaction_list_income_wrapper .buttons-pdf{
+	margin-left:10px;
+}
+.view_details_popup_body_instrument
+{
+	overflow-y: auto;
+    min-height: 400px;
+    max-height: 400px;
+}
+
+/*** 22-04-2021 ***/
+@media (min-width: 360px) and (max-width: 420px){
+	.formError {
+		left: 220px !important;
+	}
+	.hospital-management-content .formError {
+		left: 122px !important;
+	}
+	div.select2-container{
+		width: 100% !important;
+	}
+}
+@media (min-width: 320px) and (max-width: 359px){
+	.formError {
+		left: 180px !important;
+	}
+	.hospital-management-content .formError {
+		left: 90px !important;
+	}
+	div.select2-container{
+		width: 100% !important;
+	}
+}
+@media (min-width: 320px) and (max-width: 420px){
+	#save_allow, .bed_transfer_from{
+		margin-top: 10px; 
+	}
+	input[name=save_bed]{
+		margin-top: 10px;
+	}
+}
+/*------------ NEW Boostrap CSS(31-05-2021)--------- */
+.modal-header
+{
+	display:block !important;
+}
+.fc-button-primary {
+    background-color: #fff !important;
+    background-image: none !important;
+    border-color: #e5e5e5 !important;
+    color: #333 !important;
+    text-shadow: 0;
+    box-shadow: 0;
+    outline: 0!important;
+}
+.fc .fc-col-header-cell-cushion,.fc-daygrid-day-number {
+    text-decoration: none !important;
+    color: #4E5E6A !important;
+}
+.chart_dashboard
+{
+	width: 100%; 
+	height: 500px;
+}
+#addremove
+{
+	border-radius: revert !important;
+}
+a {
+    color: #0d6efd;
+    text-decoration: none !important;
+}
+.nav-tabs>li {
+    float: left;
+    margin-bottom: -1px;
+}
+.nav>li {
+    position: relative;
+    display: block;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+   border: 1px solid #ddd;
+}
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.float_left
+{
+	float:left;
+}
+.float_right
+{
+	float:right;
+}
+.min_height_935
+{
+	min-height: 935px;
+}
+h3.logo-image {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.img-circle.head_logo {
+    border-radius: 0;
+    height: 55px;
+    width: 55px;
+}
+.img-circle {
+    height: 40px;
+    width: 40px;
+    margin: 0px 8px;
+    border-radius: 50%;
+}
+.multiselect-all .form-check-input,.multiselect-option .form-check-input
+{
+	margin-top: 6px !important;
+}
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #d3d3d3 !important;
+    color: #000 !important;
+}
+.multiselect-native-select .dropdown-item input[type=checkbox]:checked::before {
+    color: #ffffff !important;
+}
+.margin_top_70
+{
+	margin-top: 70px;
+}
+.pull-right
+{
+	float:right;
+}
+.opacity_div .fade:not(.show) {
+    opacity: unset !important;
+}
+.min_height_1631
+{
+	min-height:1631px !important
+}
+.float_left_width_100
+{
+	float:left;
+	width:100%;
+}
+.margin_bottom_20
+{
+	margin-bottom:20px;
+}
+.margin_bottom_10
+{
+	margin-bottom:10px;
+}
+.chart_css
+{
+	width: 100%; 
+	height: 500px;
+}
+.width_125
+{
+  width: 125px;
+}
+.label_fun
+{
+
+}
+.width_50
+{
+  width:50%;
+}
+.margin_top_40
+{
+  margin-top:40px;
+}
+.width_530
+{
+  width: 530px !important;
+}
+.color_1
+{
+  color:#4CAF50;
+}
+.color_2
+{
+  color:#008CBA;
+}
+.color_3
+{
+  color:#e21313fc;
+}
+.appoin_span_1
+{
+  border: 1px solid #000;
+  padding: 0;
+}
+.appoin_span_2
+{
+  padding: 5px;
+  border-bottom: 1px solid #000;
+  text-align: center;
+  background: #f2f2f2;
+}
+.appoin_span_3
+{
+  text-align: center; 
+  padding: 0;
+}
+.appoin_span_4
+{
+  float: left;
+  width: 100%;
+  padding: 0px;
+}
+.width_10px{
+   width:10px;
+}
+.margin_top_10
+{
+	margin-top:10px;
+}
+.fileinput-cancel-button,.kv-upload-progress,.fc-daygrid-event-dot
+{
+	display:none !important;	
+}
+.fileinput-remove-button,.fileinput-upload-button
+{
+	margin-top: 10px;
+}
+.patient_data .fade:not(.show)
+{
+	opacity: unset;
+}
+.fc-daygrid-event {
+    padding: 5px !important;
+    background: #22BAA0;
+    border: 0 !important;
+	color:white;
+}
+.min_height_415 {
+    min-height: 415px;
+}
+.patient_data .nav-tabs .nav-item.show .nav-link,.patient_data .nav-tabs .nav-link.active {
+    background: none repeat scroll 0 0 #fff !important;
+}
+.patient_data .nav-link {
+    background: none repeat scroll 0 0 #f1f4f9 !important;
+	color: #50575e !important;
+}	
+.margin_right_10
+{
+	margin-right:10px;
+}
+.invoice_date,.unit
+{
+	height: 34px!important;
+}
+.sorting
+{
+	padding: 0px 15px 0px 8px!important;
+}
+.legend
+{
+	padding-left: 75px!important;
+}
+.legend_asset
+{
+	padding-left: 40px!important;
+}
+.save_instrument
+{
+	margin-left: 50px;
+}
+.badge-edit
+{
+	color: #0a58ca!important;
+}
+.main_div 
+{
+	position: absolute!important;
+	
+}
+.fa-shopping-cart
+{
+	color: gray;
+}
+.transfer_div_padding
+{
+	padding-left: 18px!important;
+    padding-right: 18px!important;
+}
+#patient_form .radio-inline .tog
+{ 
+
+	margin-right: 4px!important;
+}
+#out_patient_form.radio-inline .tog 
+{
+	margin-right: 4px!important;
+}
+#guardian_form .radio-inline .tog 
+{
+	margin-right: 4px!important;
+}
+#instrument_form .radio-inline .tog 
+{
+	margin-right: 4px!important;
+}
+.mozila_display_css
+{
+	display: grid!important;
+}
+.patient_data .main_div
+{
+	width: 100%!important;
+}
+@media print
+{	
+	#paitient_print #membesrship_list
+	{
+		width: 95%!important;
+	}
+	
+	.main_div 
+	{
+		width: 100%!important;
+	}
+}
+.padding_top_mail
+{
+  padding-top: 12px!important;
+}
+
+.multiselect-all
+{
+	padding-left: 12px!important;
+}
+/* .user_profile_div_full
+{
+	width:100%!important;
+} */
+.assign_bed_nurse
+{
+	font-size:12px!important;
+	width: max-content;
+    padding: 22px 0px 0px 0px;
+}
+.stripe_div
+{
+  display: none;
+}
+.virtual_appointment_meeeting_div
+{
+  display: none;
+}
+.mark_appointment_fronend {
+    background-color: #22BAA0;
+}
+#membesrship_list .nurse_name_padding
+{
+	padding-top: 25px !important;
+}
+.width_45px {
+    width: 45px;
+}
+.send_mail_checkbox
+{
+  padding-top: 8px;
+}

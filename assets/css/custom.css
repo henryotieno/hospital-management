@@ -1,0 +1,2086 @@
+@media only screen and (max-width : 767px) 
+{
+	/* .panel .panel-body 
+	{
+		padding: 5px!important;
+	} */
+	.dropdown-menu li
+	{
+		margin-top: 5px!important;
+	}	
+	.form-group 
+	{
+		margin-bottom: 0px!important;
+	}
+	.panel-body form label
+	{
+		margin-top: 5px!important;
+	}	
+	.padding_left_0 
+	{
+		padding-left: 15px!important;
+	}
+	.radio-inline 
+	{
+		padding-left: 30px!important;
+	}
+	.medicine_padding_right_0
+	{
+		padding-right: 15px!important;
+	}	
+	.mail_template_panel .panel-heading
+	{
+		padding: 5px!important;
+		height: 50px!important;
+	}	
+}	
+@media only screen and (min-width : 768px) 
+{
+	.padding_left_0 
+	{
+		padding-left: 0px!important;
+	}
+	.medicine_padding_right_0
+	{
+		padding-right: 0px!important;
+	}
+}
+/*start popup auto css*/
+@media only screen and (max-width : 1800px) 
+{
+	.overlay_content_css
+	{
+		height: 500px;
+		position: relative;
+	} 
+}
+@media only screen and (max-width : 800px) 
+{
+	.overlay_content_css
+	{
+		overflow-y: auto;
+		height: 350px;
+		position: relative;
+		min-height: 490px;
+		top: 4%;
+	} 
+}		
+/*end popup auto css */
+/*start dashboard  view details popup */
+.model_header_padding
+{
+    height: 55px!important;
+}
+.content_width 
+{
+    width: 40%!important;
+    padding: 0px!important;
+}
+.view_details_body
+{
+	height: 400px!important;
+    overflow: auto!important;	
+}
+.view_details_body_appointment
+{
+    height: 280px;
+	overflow: auto!important;	
+}
+.view_details_body_operation
+{
+  height: 330px!important;
+    overflow: auto!important;	
+}	
+.view_details_body_operation
+{
+  height: 330px!important;
+  overflow: auto!important;	
+}
+.view_details_body_assigned_bed
+{
+	height: 380px!important;
+  overflow: auto !important;
+}		
+#examlist 
+{
+    font-weight: 600!important;
+}
+@media only screen and (max-width : 1000px) 
+{
+	.content_width 
+	{
+		width: 50%!important;
+		left: 40%!important;
+	}	
+}	
+@media only screen and (max-width : 800px) 
+{
+	.content_width 
+	{
+		width: 50%!important;
+		left: 35%!important;
+	}	
+}
+@media only screen and (max-width : 700px) 
+{
+	.content_width 
+	{
+		width: 65%!important;
+		left: 30%!important;
+	}	
+}
+@media only screen and (max-width : 550px) 
+{
+	.content_width 
+	{
+		width: 85%!important;
+		left: 20%!important;
+	}	
+}
+@media only screen and (max-width : 450px) 
+{
+	.content_width 
+	{
+		width: 96%!important;
+		left: 15%!important;
+	}	
+}
+/*End dashboard  view details popup */
+/*start charges popup */
+.charges_heading
+{
+	border-top:1px solid #ddd;
+	border-bottom:1px solid #ddd;
+	width: 100%;
+    float: left;
+    margin-bottom: 5px;
+}
+.padding_8
+{
+	padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 0px!important;
+}	
+.charges_body
+{
+	float:left;	
+}
+.dropdown_width_100_per
+{
+	width:100%!important;
+}
+#patient_transaction input[type=checkbox]
+{
+	margin: 5px 0 0!important; 
+	height:20px;
+}
+@media only screen and (min-width : 992px) 
+{
+	.div_padding_right_0
+	{
+		padding-right:0px!important;	
+	}	
+	.div_padding_bottom_5
+	{
+		padding-bottom:5px!important;	
+		padding-left:5px!important;	
+	}
+	.div_padding_left_0
+	{
+		padding-left:0px!important;	
+	}
+	.charges_body
+	{
+		height: 270px;		
+		overflow-y: scroll;
+		overflow-x: hidden;
+	}
+	#patient_transaction .col-md-2
+	{
+	    width: 14%!important;
+	}	
+	#patient_transaction .col-md-1 
+	{
+		width: 9%!important;
+	}
+}
+@media only screen and (max-width : 991px) 
+{
+	#patient_transaction
+	{
+		height: 250px;		
+		overflow-y: scroll;
+		overflow-x: hidden;
+	}
+	.charges_body>div.row>div
+	{
+		margin-bottom:5px!important;
+	}
+}
+/*end charges popup */		
+/*invoice responsive */
+@media (min-width: 1301px) and (max-width: 1357px)
+{
+	.invoice_address_css
+	{
+		padding-right: 0px!important;
+	}	
+}
+@media (min-width: 1201px) and (max-width: 1500px)
+{
+	.address_css
+	{
+		width:11%!important;
+	}	 
+}
+@media (min-width: 992px) and (max-width: 1200px)
+{
+	.address_css
+	{
+		width:13%!important;
+	}	 
+}
+@media (min-width: 551px) and (max-width: 700px)
+{
+	.address_css
+	{
+		width:12%!important;
+	}	 
+}
+@media (min-width: 471px) and (max-width: 550px)
+{
+	.address_css
+	{
+		width:15%!important;
+	}	 
+}
+@media (min-width: 400px) and (max-width: 470px)
+{
+	.address_css
+	{
+		width:21%!important;
+	}	 
+}
+@media only screen and (max-width : 991px) 
+{
+	.address_css
+	{
+		padding-left: 0px!important;
+	}	 
+}
+@media only screen and (max-width : 1300px) 
+{
+	.invoice_address
+	{
+		font-size:12px;
+	}
+}
+@media only screen and (max-width : 900px) 
+{
+	.view_invoice_lable_css .view_invoice_lable
+	{
+		padding-left: 15px!important;
+	}	
+	
+}
+@media only screen and (max-width : 600px) 
+{
+	.view_invoice_lable_css .view_invoice_lable
+	{
+		padding-left: 18px!important;
+	}	
+		
+}	
+/*start payment receipt*/
+.width_20_payment_receipt
+{
+	width:20%!important;
+}	
+/*end payment receipt*/
+/* start popup background color*/
+.modal.fade.in
+{
+	background: #000000bf;
+}
+/* end popup background color*/
+/* start invoice entry css */
+.invoice_entry_popup
+{
+	left: 30%;
+	width: 77%;
+}
+/* end invoice entry css */
+/* start multiselect dropdown */
+.multiselect-container>li>a>label
+{
+	padding: 0px 21px 0px 29px!important;
+}
+@media only screen and (max-width : 769px) 
+{
+	.multiselect-container>li>a>label
+	{
+		padding: 0px 21px 0px 41px!important;
+	}
+}
+.multiselect-container li a
+{
+	padding: 0px 0px!important;
+}	
+/* end multiselect dropdown */
+
+/* start medicine details */
+.medicine_details_table>tbody>tr>td, .medicine_details_table>tbody>tr>th, .medicine_details_table>thead>tr>td, .medicine_details_table>thead>tr>th
+{
+	 border: 1px solid #ddd;
+}	
+.medicine_details_table>thead>tr>th
+{
+	border-top:1px solid #ddd!important;
+}
+/* End medicine details */
+/*start invoice css */
+.patient_invoice>.modal-header
+{
+	    padding: 10px;
+		height: 29px;
+}		
+/*end invoice css */
+.out_come_status
+{
+	display:none;	
+}	
+/*start dashboard calendar event popup css*/
+@media only screen and (max-width : 518px) 
+{
+	.fc-more-popover
+	{
+		top:0px!important;
+	}
+}	
+@media only screen and (max-width : 600px) 
+{
+	.tooltipevent
+	{
+		font-size:12px!important;			
+	}
+	/**rinkal**/	
+	.modal-body1
+	{
+		height: 350px!important;
+		overflow: auto!important;
+	}
+}
+
+	
+/*end dashboard calendar event popup css*/
+/*start multiselect dropdown css*/
+.multiselect-container
+{
+	overflow: scroll;
+    height: 140px;
+}
+/*end multiselect dropdown css*/
+/*start fronted tab css */
+@media only screen and (max-width : 1600px) 
+{	
+	.panel_tabs>li>a
+	{
+		margin: 10px 10px 0 0;		
+	}	
+}
+@media only screen and (max-width : 437px) 
+{	
+	.panel_tabs>li.active>a.active
+	{		
+		border-bottom: 1px solid #ccc;
+	}
+	ul.panel_tabs>li.active>a
+	{		
+		border-bottom: 1px solid #ccc;
+	}
+/**add invoice css**/
+.align_right {
+    text-align: left!important;
+}
+.amount_padding_15 {
+    float: right;
+}
+.grand_total_lable {
+    float: left;
+    background-color: #0f63af;
+    padding-left: 25px!important;
+    margin-top: 20px;
+}
+h3.padding.color_white.margin {
+    text-align: right;
+}
+/**add precscription css**/
+.width_20_date {
+    width: 100%!important;
+    padding-right: 0px!important;
+}
+.width_100_123 {
+    width: 100%;
+    padding-top: 34px;
+    margin-top: 31px!important;
+}
+.width_30 {
+    width: 0%!important;
+ }
+ .align_left_d{
+	float:right!important;
+}
+.invoicefont123 {
+    vertical-align: top;
+    position: absolute;
+    top: 0px;
+    right: 1px!important;
+    background-repeat: no-repeat;
+}
+}
+/*end fronted tab css */
+@media only screen and (max-width : 767px) 
+{
+	.margin_bottom_5px
+	{
+		margin-bottom:5px!important;
+	}
+	.width_50_per
+	{
+		width:50%!important;
+	}
+	.padding_left_right_15px
+	{
+		padding-left: 15px!important;
+		padding-right: 15px!important;
+	}
+}
+/*popup scroll*/
+/*Start image preview */
+.image_preview_css
+{
+    height: 150px;
+    width: 150px;
+    margin-top: 5px;
+}
+/* end image preview */
+/*calander event popup */
+.fc-popover .fc-event-container 
+{
+	height: 100px!important;
+    overflow: auto!important;
+}
+/*start prescription Module */
+#prescription_report_div
+{
+	display:none;	
+}	
+
+/*end prescription Module */
+/*start access right css*/
+.access_right_menucroll
+{
+    overflow: scroll; 
+    height: 530px;
+	padding:0px!important;
+	margin-right:0px;
+}
+.access_right_heading
+{
+    overflow: scroll; 
+    width: 100%;
+}
+.access_right_hed .col-sm-2
+{		
+	padding:0px;
+}
+@media (min-width: 726px) and (max-width: 767px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:70px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:60px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:50px!important;
+	}	
+	.padding_left_22
+	{
+		padding-left:32px!important;
+	}	
+}
+@media (min-width: 681px) and (max-width: 725px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:54px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:56px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:50px!important;
+	}	
+	.padding_left_22
+	{
+		padding-left:32px!important;
+	}	
+}	
+@media (min-width: 641px) and (max-width: 680px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:54px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:37px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:50px!important;
+	}	
+	.padding_left_22
+	{
+		padding-left:32px!important;
+	}	
+}	
+@media (min-width: 601px) and (max-width: 640px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:52px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:34px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:35px!important;
+	}	
+	.padding_left_22
+	{
+		padding-left:22px!important;
+	}	
+}
+@media (min-width: 551px) and (max-width: 600px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:45px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:36px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:26px!important;
+	}	
+	.padding_left_22
+	{
+		padding-left:5px!important;
+	}	
+}
+@media (min-width: 511px) and (max-width: 550px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:33px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:28px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:24px!important;
+	}	
+}
+@media (min-width: 481px) and (max-width: 510px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:32px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:17px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:22px!important;
+	}	
+}
+@media (min-width: 451px) and (max-width: 480px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:28px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:10px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:18px!important;
+	}	
+}	 
+@media (min-width: 426px) and (max-width: 450px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:13px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:22px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:8px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:13px!important;
+	}	
+}
+@media (min-width: 401px) and (max-width: 425px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:12px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:30px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:7px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:14px!important;
+	}	
+}
+@media (min-width: 381px) and (max-width: 400px)
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:12px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:15px!important;
+	}	
+	.padding_left_18
+	{
+		padding-left:6px!important;
+	}
+	.padding_left_12
+	{
+		padding-left:6px!important;
+	}	
+}
+@media only screen and (max-width : 380px) 
+{
+	.access_right_hed .col-sm-2
+	{		
+		width:14%!important;	
+		display:inline;
+		padding:0px;
+		font-size:12px;
+	}
+	.access_right_menucroll .col-sm-2
+	{		
+		width:14%!important;		
+		padding:0px;
+		font-size:10px;		
+		float: left;
+	}	
+	.access_right_menucroll .row
+	{
+		display:inline!important;		
+	}	
+	.access_right_menucroll .checkbox input[type=checkbox]
+	{
+		margin-left:2px!important;
+	}
+	.padding_left_heading
+	{
+		padding-left:12px!important;
+	}	
+}
+/*end access right css*/
+
+/*prescription multiselect */
+.select2-container .select2-choice 
+{
+    height: 31px!important;
+}
+div.select2-container
+{
+    padding: 0px 0px!important;
+	border:0px!important;
+}
+/*end  prescription css*/
+/*Doctor Details */
+.profile-cover 
+{
+    height: 210px!important;
+}
+.profile-image 
+{
+    margin: 109px 20px 20px!important;
+} 
+/* End Doctor Details */
+
+#patient_transaction tbody
+{
+	width: 100%;
+}
+#patient_transaction tbody tr th
+{
+	text-align:center;
+}
+.patient_invoice>h4
+{
+	 padding-left: 15px;
+}
+.show_msg,.show_msg1
+{
+    display: none;
+}
+/*Start invoice CSS*/
+.disply_name_margin_top_28
+{
+	margin-top: 45px!important;
+}
+.invoice_disply_name_margin_top_28
+{
+	 margin-top: 28px!important; 	
+}
+.main_div_pdf
+{
+    margin: -100px 0px 0px 0px;
+}
+.width_100
+{
+	width:100%;
+	padding-top: 34px;
+}
+.width_80
+{
+	width:80%;
+}
+.width_1
+{
+	width:1%;
+}
+.width_40
+{
+	width:40%;
+}
+.amount_padding_15
+{
+	padding-right:15px!important;
+}
+.margin
+{
+	margin-bottom: 5px;
+    margin-top: 5px;
+}
+.grand_total_lable
+{
+	background-color:#0f63af;
+}
+.amount_padding_8
+{
+	padding-right:15px;
+}
+
+.padding_11
+{
+	padding-bottom: 11px;
+	padding-top: 11px;
+}
+
+.grand_total_amount
+{
+	background-color:#0f63af; 
+}
+h3.padding
+{
+	margin-top: 5px!important;
+}
+.padding_left_5
+{
+	padding-left: 5px;
+}
+.padding_top_18
+{
+	padding-top: 18px;
+}
+.system_logo
+{
+	float:left;
+}
+.width_24
+{
+	width:24%;
+}
+.width_50
+{
+	width:50%;
+	float: left;
+}
+.billed_to
+{
+	vertical-align:top; 
+	float: left;
+}
+.billed_to_print
+{
+	vertical-align:top; 
+	width: 9%;
+	padding-top:5px;
+}
+.billed_to_lable
+{
+	font-weight: bold; 
+	font-size: 15px;
+}
+.width_60
+{
+	width:60%;
+}
+.width_30
+{
+	width:30%;
+}
+.width_20
+{
+	width:20%;
+	padding-right:120px!important;
+}
+
+.grand_amount_width_20
+{
+	width:20%; 
+	padding-bottom: 11px;
+    padding-top: 11px;
+	padding-right: 15px;
+	
+}
+.invoice_lable
+{
+	background-color:#0f63af;
+	color:white;
+	padding:10px!important;
+ 	margin-top: 40px!important; 
+}
+.table_row_color tbody tr:nth-child(even)
+{
+	background:#a3caec;
+}
+.entry_heading
+{
+	background-color:#0f63af;
+}
+.color_white
+{
+	color:white;
+}
+.align_center
+{
+	text-align:center;
+}
+.align_left
+{
+	text-align:left;
+}
+.align_right
+{
+	text-align:right;
+}
+.print_css_heading h3
+{
+	margin-bottom:10px!important;
+}	
+.print_css_heading h5
+{
+	margin-top:10px!important;
+	margin-bottom:10px!important;
+}
+.invoice_print1,#invoice_print
+{
+	 font-family: 'lucida grande', helvetica, verdana, arial, sans-serif!important;	
+}	
+table.print_table_border
+{
+	border: 1;
+	border-collapse: collapse!important;	
+}
+.margin_bottom_10
+{
+	margin-bottom:10px;
+} 
+.invoice_print1 .table>thead>tr>th ,.invoice_print1 .table>tbody>tr>td,#invoice_print .table>thead>tr>th ,#invoice_print .table>tbody>tr>td,
+.invoice_body .table>thead>tr>th ,.invoice_body .table>tbody>tr>td	
+{
+	padding:5px!important;
+}
+.amount_padding_5
+{
+	padding:5px;
+}
+.font_weight
+{
+	font-weight: normal;
+}
+.width_100_print
+{
+	width:500px;
+}
+.width_1_print
+{
+	width:100px;
+}
+.system_logo_print
+{
+	height: 48px!important;
+	width: 52px!important;
+}
+.only_width_20_print
+{
+	width:290px;
+}
+.font_family
+{
+	 font-family: 'lucida grande', helvetica, verdana, arial, sans-serif!important;	
+}	
+.table_td_font
+{
+	font-size: 13px!important;	
+    font-weight: 400!important;
+	font-family: 'lucida grande', helvetica, verdana, arial, sans-serif!important;		
+} 
+.width_50_print
+{
+	width:300px;
+	float: left;
+}
+.width_40_print
+{
+	width:250px;
+}
+.width_30_print
+{
+	width:150px;
+}
+.width_20_print
+{
+	width:150px;
+	padding-right:30px;
+}
+.width_70
+{
+	width:70%;	
+}
+.width_85
+{
+	width:85%;	
+}
+.h5_pdf
+{
+	font-weight: 0!important;
+    font-size: 14px!important;
+}
+.h4_pdf
+{
+	font-weight: bold!important;
+    font-size: 14px!important
+}
+.h3_pdf
+{
+	font-weight: 600!important;
+    font-size: 16px!important;
+}
+.invoiceimage,.invoicefont1
+{
+	vertical-align:top;
+	position: absolute;
+    top: 0px;
+    /* right: 24px;  invoice isssue */
+	background-repeat:no-repeat;
+	
+}
+.invoicefont1{
+	z-index:-1;
+}
+.prescription_pop_content{
+	position:relative;
+}
+.img_padding_right_pdf
+{
+	padding-right:20px;
+}
+.billed_to_pdf
+{
+	vertical-align:top; 
+	width: 100px;
+}
+.width_93
+{
+	width:97%;
+	margin-right: 0.71cm;
+	border-collapse:collapse;
+}
+/* .width_93
+{
+	width:97%;
+	border-collapse:collapse;
+} */
+.width_93_123
+{
+	margin-right: 0.71cm;
+}
+.width_93_new
+{
+	width:97%;
+	border-collapse:collapse;
+}
+.width_97
+{
+	width:97%;
+}
+.padding_10_pdf
+{
+	padding: 5px!important;
+}
+.width_54_print
+{
+	float: right;
+	width:385px;
+	margin-bottom: 70px;
+}
+.width_20_prescription
+{
+	width:20%;
+	padding-right:28px!important;
+}
+.invoice_payment_receipt 
+{
+	background-color:#0f63af!important;
+	color:white!important;			
+	padding-bottom:5px!important;	
+	padding-top:5px!important;	
+}
+@media print 
+{
+	.width_20
+	{
+		width:20%;
+		padding-right:28px!important;
+	}
+	.width_20_prescription
+	{
+		width:30%;
+		padding-right:20px!important;
+	}
+	.padding_10_pdf
+	{
+		padding: 5px!important;
+	}
+	.font_family
+	{
+		 font-family: 'lucida grande', helvetica, verdana, arial, sans-serif!important;	
+	}
+	.font_weight
+	{
+		font-weight: normal;
+	}
+	.billed_to_print
+	{
+		vertical-align:top; 
+		width: 20%;
+		padding-top:5px;
+	}
+
+	.invoice_color 
+	{
+		background-color:#0f63af;
+		-webkit-print-color-adjust: exact; 
+		color:white!important;	
+		padding:10px;
+		margin-top: 20px;
+		margin-bottom: 10px;		
+	}
+	.table_row_color tbody tr:nth-child(even)
+	{
+		background-color:#a3caec!important;	
+		-webkit-print-color-adjust: exact; 
+	}
+	.grand_total_lable1 
+	{
+		background-color:#0f63af;
+		-webkit-print-color-adjust: exact; 
+		color:white!important;	
+		float:right; 		
+		padding-left:20px;	
+	}
+	.grand_total_amount1 
+	{
+		background-color:#0f63af;
+		-webkit-print-color-adjust: exact; 
+		color:white!important;				
+	}
+	.invoice_payment_receipt 
+	{
+		background-color:#0f63af!important;
+		-webkit-print-color-adjust: exact; 
+		color:white!important;			
+		padding-bottom:5px!important;	
+		padding-top:5px!important;	
+	}
+	.entry_heading_print
+	{
+		background-color:#0f63af;
+		-webkit-print-color-adjust: exact; 
+	}
+	.invoice_print1,#invoice_print
+	{
+		 font-family: 'lucida grande', helvetica, verdana, arial, sans-serif!important;	
+	}
+	table.print_table_border
+	{
+		border: 1;
+		border-collapse: collapse!important;	
+	}
+	.margin_bottom_10
+	{
+		margin-bottom:10px;
+	} 
+	.invoice_print1 .table>thead>tr>th ,.invoice_print1 .table>tbody>tr>td,#invoice_print .table>thead>tr>th ,#invoice_print .table>tbody>tr>td,
+	.invoice_body .table>thead>tr>th ,.invoice_body .table>tbody>tr>td	
+	{
+		padding:5px!important;
+	}	
+}
+/*End invoice CSS*/
+div.scroll_css
+{
+	overflow:scroll;
+	height:163px;
+	margin-top: 45px;
+}
+.removeselect>input[type=radio]
+{
+	visibility: hidden;
+}
+.removeselect .time
+{
+	float:unset;
+}
+.bootstrap-timepicker-widget.timepicker-orient-top::before {
+  top: -7px;
+}
+.bootstrap-timepicker-widget.timepicker-orient-left::before {
+  left: 6px;
+}
+.bootstrap-timepicker-widget.dropdown-menu::before {
+  border-bottom: 7px solid rgba(0, 0, 0, 0.2);
+  border-left: 7px solid rgba(0, 0, 0, 0);
+  border-right: 7px solid rgba(0, 0, 0, 0);
+  content: "";
+  display: inline-block;
+  position: absolute;
+}
+.bootstrap-timepicker-widget table td a {
+  border: 1px solid rgba(0, 0, 0, 0);
+  color: #303641;
+  display: inline-block;
+  margin: 0;
+  outline: 0 none;
+  padding: 0;
+  width: 100%;
+}
+input.bootstrap-timepicker-hour,input.bootstrap-timepicker-minute {
+  border-radius: 0px !important;
+  border: 1px solid #dedede !important;
+}
+
+#calendar .fc-content {
+    background: #22baa0 none repeat scroll 0 0;
+    border: 0 none;
+    padding: 5px;
+}
+/********         Chart *****************/
+#chart_div{margin-top: 70px;}
+
+/**** Message ****/
+.mailbox-content .message_for{width:135px;}
+.mailbox-content .message_title{width:200px;}
+
+.profile_data {
+  height: 500px;
+  overflow: scroll;
+  float: left;
+  width: 100%;
+}
+.profile_data .profile-image {
+  margin: 100px 20px 20px;
+}
+
+.profile_data .profile-cover {
+  height: 200px;
+
+}
+.profile_data #main-wrapper{margin-top:50px;}
+
+.updated.below-h2 {
+    text-transform: capitalize;
+}
+/********messagebox css*********/
+
+.hospital-management-content  #message   {
+    background: #fff none repeat scroll 0 0;
+    border-left: 4px solid #7ad03a;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    margin: 5px 15px 9px;
+    padding: 9px 0px 1px 13px;
+}
+/********Fronted messagebox css*********/
+.hospital-management-content  #messages {
+    background: #fff none repeat scroll 0 0;
+    border-left: 4px solid #7ad03a;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+	opacity: unset;
+}
+.close
+{
+	display:none;
+	position: absolute;
+    top: 6px;
+    right: 10px;
+    border: none;
+    margin: 0;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    border-radius: 50%;
+    background: #787c82;
+	float:right;
+}
+#messages p
+{
+	margin:0px;
+}
+input[type=number] 
+{
+    height: 34px!important;
+}
+/*****/
+#main-wrapper a:focus {
+  box-shadow: none;
+}
+
+
+/**** Rinkal changes media query*****/
+
+.modal-body1
+{
+	height:450px;
+    overflow: auto;
+}
+.modal-body1 {
+    position: relative;
+    padding: 20px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+@media only screen and (max-width : 800px) 
+{
+	.modal-body1
+	{
+		height:300px!important;
+		overflow: auto!important;
+	}
+	.overlay-content .prescription_pop_content
+	{
+		height: 358px;
+		overflow: auto;
+	}
+}
+@media only screen and (max-width : 1320px) 
+{
+	.modal-body1
+	{
+		height:350px!important;     /**322px!important;**/
+		overflow: auto!important;
+    }
+	.overlay-content .prescription_pop_content
+	{
+		height: 256px;
+		overflow: auto;
+	}
+
+}
+/**dashboard css rinkal**/
+@media only screen and (max-width : 431px) 
+{
+	.calendar-event .remainder_date {
+    float: left!important;
+	}
+   .calendar-event .remainder_title {
+    float: left!important;
+    width:100%!important;
+    cursor: pointer!important;
+}
+}
+@media only screen and (max-width : 480px) 
+{
+.calendar-event .remainder_date {
+	padding-top:5px!important;
+	padding-bottom:5px!important;
+	}
+
+}
+/*new add deshboard rinkal css*/
+.dashboard_panel_heading_border .panel .panel-heading 
+{
+    border-top: 3px solid #d2d6de  !important;
+    border-bottom: 1px solid #ddd !important;
+}
+.panel-white.event .panel-heading {
+    border-top-color: #f39c12 !important;
+}
+.panel-white.priscription .panel-heading {
+    border-top-color: #F25656 !important;
+}
+.panel-white.Appoinment .panel-heading {
+    border-top-color: #12AFCB !important;
+}
+.panel-white.operation .panel-heading {
+    border-top-color: #999933 !important;
+}
+.panel-white.assignbed .panel-heading {
+    border-top-color: #996600 !important;
+}
+.panel-white.nt .panel-heading {
+    border-top-color: #00a65a !important;
+}
+.calendar-event .remainder_date {
+    float: right;
+	width: 180px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    padding: 0 5px;
+    color: #FFF;
+    border-radius: 2px;
+	background-color: #f39c12;
+    background-image: url(../images/vertical_line.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.calendar-event .remainder_date_pr {
+    float: right;
+    width: 88px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    padding: 0 10px;
+    color: #FFF;
+    border-radius: 2px;
+}
+
+.calendar-event .remainder_date_pr {
+    background-color: #F25656;
+}
+.Appoinment .calendar-event .remainder_date {
+    background-color: #12AFCB;
+}
+.operation .calendar-event .remainder_date_pr {
+    background-color: #999933;
+}
+.assignbed .calendar-event .remainder_date {
+    background-color: #996600;
+}
+.nt .calendar-event .remainder_date, .nt .panel-heading .view_all {
+    background-color: #00a65a;
+}
+.calendar-event {
+    padding: 10px 0px;
+    text-transform: capitalize;
+    border-bottom: 1px solid #f4f4f4;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+p
+{
+    font-size: 13px;
+}
+
+/*new add rinkal css*/
+.panel-body.patient {
+    border-bottom: 3px solid #22baa0;
+}
+.panel-body.doctor {
+    border-bottom: 3px solid #12AFCB;
+}
+.panel-body.nurse {
+    border-bottom: 3px solid #6A5FAC;
+}
+.panel-body.receptionist {
+    border-bottom: 3px solid #4E5E6A;
+}
+.panel-body.message {
+    border-bottom: 3px solid #0066FF;
+}
+.panel-body.setting {
+    border-bottom: 3px solid #999933;
+}
+.panel-body.appointment {
+    border-bottom: 3px solid #FF9966;
+}
+.panel-body.prescription {
+    border-bottom: 3px solid #0099FF;
+}
+.panel-body.assignbed {
+    border-bottom: 3px solid #996600;
+}
+.panel-body.treatment {
+    border-bottom: 3px solid #003333;
+}
+.panel-body.eventnotice {
+    border-bottom: 3px solid #009933;
+}
+.panel-body.operation_report {
+    border-bottom: 3px solid #330033;
+}
+.panel-body.pharmacist {
+    border-bottom: 3px solid #3B5998;
+}
+.panel-body.medicine {
+    border-bottom: 3px solid #CC0066;
+}
+.panel-body.laboratorist {
+    border-bottom: 3px solid #380000;
+}
+.panel-body.diagnosis {
+    border-bottom: 3px solid #330033;
+}
+.panel-body.accountant {
+    border-bottom: 3px solid #F25656;
+}
+.panel-body.invoice {
+    border-bottom: 3px solid #660033;
+}
+.no-paddingR {
+    padding-right: 0px;
+}
+
+.calendar-event .remainder_title {
+    float: left;
+    width: calc(100% - 180px);
+    cursor: pointer;
+}
+.calendar-event .remainder_title_pr {
+    float: left;
+    width: calc(100% - 88px);
+    cursor: pointer;
+}
+.calendar-event p.Bold {
+    font-weight: 700;
+}
+.panel .panel-heading>img {
+    float: left;
+    padding-right: 6px;
+}
+.width_60b2 {
+    float: left;
+}
+.width_20c {
+    float: left;
+}
+.width_50a1112 {
+    float: left;
+}
+/** rinkal precscription css**/
+.width_20_date {
+    width: 25%;
+    padding-right: 28px;
+}
+.invoicefont123
+{
+    vertical-align: top;
+    position: absolute;
+    top: 0px;
+	right: 24px;
+    background-repeat: no-repeat;
+}
+.invoicefont123 
+{
+    z-index: -1;
+}
+.width_100_123 {
+    width: 100%;
+    padding-top: 34px;
+	float: right;
+}
+.align_left_d{
+	float:left;
+}
+/***rinkal add css in contact***/
+.first_hed 
+{
+    margin-top: 0px;
+}
+@page    {
+  size: auto;  
+  margin: 0;  
+ }
+ .flot_width_100
+{
+	float:left;
+	width:100%;
+}
+.fc-view.fc-agendaWeek-view.fc-agenda-view
+{
+	overflow:auto;
+}
+.fc-view.fc-agendaDay-view.fc-agenda-view
+{
+	overflow:auto;
+}
+/**** Add css bootstrap 5 31-05-2021 ****/
+@media (min-width: 767px){
+	.form-horizontal .control-label.form-label{
+		text-align: right;
+		padding-top: 8px;
+	}
+	.padding_top_8px
+	{
+		padding-top: 8px;
+	}
+	.form-horizontal .radio-inline{
+		padding: 8px 8px 8px 0px;
+	}
+}
+@media (max-width: 767px){
+	.form-horizontal .control-label.form-label{
+		padding-top: 8px;
+	}
+}
+.out
+{
+	display:block !important;
+}
+/**** 02-04-2021 add new bootstrap 5  ****/
+@media (min-width: 920px){
+	
+	#wpcontent{
+		 padding-left: 0px !important;
+	}
+}
+#menu-content li.nav-item {
+    margin-top: 2px;
+}
+@media (max-width: 920px){
+	.responsive_nav_bar_frontend li {
+		width: 100% !important;
+		float: left;
+		text-align: left;
+	}
+	.responsive_add_main_front_end .col-12.page-inner {
+		width: auto;
+		margin: auto;
+	}
+}
+.resident_unit .tab-content{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.responsive_add_main_front_end .panel-body.panel-white{
+	padding: 15px;
+    float: left;
+	width: 100%;
+}
+.innerpage_div ul.nav-tabs li.active a{
+	background-color: #ffffff;
+	border-bottom: 1px solid #ffffff !important;
+}
+.innerpage_div ul.nav-tabs li a{
+	background: none repeat scroll 0 0 #f1f4f9;
+	border: 1px solid #dee2e6;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.panel-body {
+    padding: 15px;
+}
+@media (max-width: 420px){
+	.profile-image{
+		margin-left: 0px !important;
+	}
+	.panel-body h2.nav-tab-wrapper .dropdown {
+		margin-top: 10px;
+		float: left;
+	}
+	select.form-select{
+		margin-bottom: 10px;
+	}
+	.radio-inline input, #recuring_charges_form .radio label input{
+		-webkit-appearance: auto;
+	}
+	#gate_name_entry .form-group .col-sm-3, #gate_name_entry .form-group .col-sm-3.row{
+		margin-bottom: 10px;
+	}
+	#gate_name_entry .form-group .col-sm-3.row .col-md-6{
+		margin-bottom: 10px;
+	}
+	.bank_margin .bank_padding{
+		width: auto;
+		min-width: auto;
+		display: flex;
+	}
+	.bank_padding{
+		align-items: center;
+	}
+	.main_info_view .bank_margin span.span_left, .main_info_view .bank_margin span.txt_color{
+		padding: 10px 11px!important;
+		display: block;
+		width: auto;
+	}
+	#recuring_charges_form .col-sm-8 .radio-inline{
+		display: block;
+		margin-bottom: 10px;
+	}
+	#recuring_charges_form .radio label input, #setting_form .radio-inline{
+		margin-bottom: 10px;
+	}
+	#recuring_charges_form .radio label , #setting_form .radio-inline{
+		display: flex;
+	}
+	.one_time_recurring_option_cs {
+		width: auto !important;
+	}
+	.main_div{
+		margin: 0px;
+	}
+	.only_width_20, .width_1, .width_50, .width_40, .billed_to, .width_20, .width_30, .width_54, .width_24, .width_70{
+		width: auto;
+	}
+	.system_logo{
+		width: auto;
+		min-width: 90px;
+		margin-left: 0px;
+		padding: 0px;
+	}
+	.overlay-content{
+		overflow: scroll;
+	}
+	.overlay-content_invoice {
+		top: 0% !important;
+		overflow: scroll;
+	}
+	#upload_file{
+		width: 100%;
+	}
+	.upload_fileformError.parentFormdocument_form{
+		left: 200px !important;
+	}
+	.mailbox-content{
+		width: 100%;
+		overflow-x: auto !important;
+	}
+
+	#access_right_form  > .row  .col-md-2.col-sm-2.col-xs-2:first-child{
+		min-width: 195px;
+	}
+	#access_right_form  > .row  .col-md-2.col-sm-2.col-xs-2:nth-child(2){
+		min-width: 65px;
+	}
+	#access_right_form  > .row  .col-md-2.col-sm-2.col-xs-2:nth-child(3){
+		min-width: 65px;
+	}
+	#access_right_form  > .row  .col-md-2.col-sm-2.col-xs-2:nth-child(4){
+		min-width: 65px;
+	}
+	#access_right_form  > .row  .col-md-2.col-sm-2.col-xs-2:nth-child(5){
+		min-width: 65px;
+	}
+	#access_right_form .access_right_menucroll .col-md-2.col-sm-2.col-xs-2, #access_right_form .row  .col-md-2.col-sm-2.col-xs-2{
+		width: auto;
+		margin: 0px;
+		margin-bottom: 10px;
+		padding: 5px;
+	}
+	#member_list.display.dataTable{
+		overflow: auto;
+		width: 100%;
+		display: block;
+	}
+	.mainpage .padding_top_front_end_header .dropdown .dropdown-menu.extended.logout {
+		left: 0px !important;
+		min-width: 100%;
+	}
+	.profile-cover{
+		background-size: 500px !important;
+		background-repeat: no-repeat !important;
+	}
+	#service_list.display.dataTable{
+		overflow-x: auto;
+		display: block;
+	}
+	.display.dataTable{
+		overflow: auto;
+		width: 100%;
+		display: block;
+	}
+}
+.time_pick {
+    position: relative !important;
+}
+.time_pick .timepicker_wrap{
+	top: auto !important;
+    left: auto !important;
+}
+.padding_top_front_end_header .dropdown .dropdown-menu.extended.logout{
+	left: -15px !important;
+}
+/*** Firefox css add ***/
+@supports (-moz-appearance:none) {
+    .apart-management-content .container-fluid > .row {
+        display: inline-flex !important;
+		width: 100%;
+		padding: 0px !important;
+		float: left;
+    }
+	.responsive_add_main_front_end
+	{
+		float: left;
+		width:100%;
+	}
+	.container-fluid{
+		padding: 0px !important;
+	}
+	table.dataTable{
+		clear: unset !important;
+	}
+	#category_form .form-group .row{
+		display: inline-flex !important;
+	}
+	#category_form_new .form-group .row{
+		display: inline-flex !important;
+	}
+}
+[dir="rtl"] .multiselect-container .dropdown-item .form-check .form-check-input {
+	margin-right: 0px !important;
+	margin-left: 8px !important;
+}
+@media (min-width:421px) and (max-width: 575px){
+	#access_right_form .access_right_menucroll .col-md-2.col-sm-2.col-xs-2, #access_right_form .row  .col-md-2.col-sm-2.col-xs-2{
+		width: 25%;
+		margin: 0px;
+		margin-bottom: 10px;
+		padding: 5px;
+	}
+}
+/*-------- Style remove -------- */
+.direction_rtl
+{
+	direction: rtl;
+}
+.rtl1
+{
+	transform: scale(-1,1);
+	max-width: 250px;
+	float: left;
+}
+.rtl2
+{
+	padding-top: 100px;
+	float:right;
+}
+.img_circle_custom
+{
+	height: 90px!important;
+    width: 90px!important;
+}
+#invoice_list .overflow_hidden
+{
+	overflow: hidden;
+}
+#out_patient_form .tog
+{
+	margin-right: 5px;
+}
+.file-input .kv-fileinput-caption
+{
+	width: 100% !important;
+	margin-bottom:5px;
+}
+.fa-edit:before, .fa-pencil-square-o:before {
+    content: "\f044";
+}
+.fc .fc-toolbar-title {
+    font-size: 20px !important;
+}
+/* .pdf_msg .notice-dismiss {
+	top: 12px !important;
+} */
+.padding_top_10{
+	padding-top: 10px;
+}
+.margin_top_10{
+	margin-top: 10px !important;
+}
+.symptoms button {
+	margin-bottom: 0px!important;
+}
+.sym_btn{
+	padding: 5px;
+}
+.category_listbox .fa.fa-pencil-square-o{
+	font-size: 18px;
+}
+.invoice_address .address_css {
+    width: 12.5%!important;
+}

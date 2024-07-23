@@ -1,0 +1,11 @@
+med_uniqueid,medicine_name,medicine_description,med_cat_id,medicine_price,med_quantity,med_tax,med_discount,medicine_menufacture,manufactured_date,medicine_expiry_date,batch_number,note,medicine_stock,med_create_date,med_create_by,med_discount_in
+1,Metoprolol,100mg,Anti hypertensive,7,1000,,0,Versant XR Unilab,01/10/2022,01/10/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+2,Metoprolol,50mg/tab Metoprolol,Anti hypertensive,5,1000,,0,Versant XR Unilab,01/10/2022,02/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+3,Amlodepine,50mg,Antianginal,5,1000,,0,Versant XR Unilab,01/10/2022,03/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+4,Amlodepine,5mg/tab,Antianginal,5,1000,,0,Versant XR Unilab,01/10/2022,04/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+5,Amlodepine,10mg/tab Amlodepine,Statins ,5,1000,,0,Versant XR Unilab,01/10/2022,05/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+6,Felodepine,10mg,Statins ,20,1000,,0,Versant XR Unilab,01/10/2022,06/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+7,Felodepine,5mg/tab,Anti hypertensive,18,1000,,0,Versant XR Unilab,01/10/2022,07/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+8,Captopril,25mg/tab,Anti hypertensive,10,1000,,0,Versant XR Unilab,01/10/2022,08/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+9,Clonidine,75mcg/tab,Dislipidemic agent,12,1000,,0,Versant XR Unilab,01/10/2022,09/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
+10,ISMN,60mg/tab,Dislipidemic agent,28,1000,,0,Versant XR Unilab,01/10/2022,10/02/2024,300007,,In,01/10/2022,flat,Mitzi Banate
